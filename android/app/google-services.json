@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522579761963",
+    "project_id": "addme-28c3b",
+    "storage_bucket": "addme-28c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522579761963:android:3bba2f482d4a6cec74036e",
+        "android_client_info": {
+          "package_name": "com.example.addme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522579761963-889n5or5bf3p0ikh44bpnlp3tlbr2m3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5s_X7RMeSrdMRWTcfFi8zqozsvpfJvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522579761963-889n5or5bf3p0ikh44bpnlp3tlbr2m3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
