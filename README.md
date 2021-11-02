@@ -6,11 +6,7 @@ Add-Me is a mobile app build in flutter with firebase integration & phone authen
 > Register your app in firebase
 >copy google-services.json file to android\app folder
 > run command pub get
-> Markdown-formatted document should be
+> Markdown-formatted document should be.
 
-
-
-
-```
 
 
